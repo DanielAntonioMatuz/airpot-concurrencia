@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<GridPane alignment="center" hgap="10" style="-fx-background-color: #d6d6d6;" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane fx:id="layoutMain" prefHeight="1000.0" prefWidth="2400.0" style="-fx-background-color: #d6d6d6;">
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="2013.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1917.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1055.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1534.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1630.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1726.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1822.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="767.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="619.0" layoutY="75.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="129.0" layoutX="525.0" layoutY="218.0" stroke="BLACK" strokeType="INSIDE" width="1870.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#979ea4" height="87.0" layoutX="770.0" layoutY="-12.0" stroke="TRANSPARENT" strokeType="INSIDE" width="1351.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#979ea4" height="87.0" layoutX="2202.0" layoutY="-12.0" stroke="TRANSPARENT" strokeType="INSIDE" width="220.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#979ea4" height="87.0" layoutX="522.0" layoutY="-12.0" stroke="TRANSPARENT" strokeType="INSIDE" width="220.0" />
+         <Text layoutX="565.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="660.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="806.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="896.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="999.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1093.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1190.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1287.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="8">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1383.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="9">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1464.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1563.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="11">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1656.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="12">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1752.0" layoutY="152.0" strokeType="OUTSIDE" strokeWidth="0.0" text="13">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1850.0" layoutY="152.0" strokeType="OUTSIDE" strokeWidth="0.0" text="14">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="1944.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" text="15">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="2035.0" layoutY="149.0" strokeType="OUTSIDE" strokeWidth="0.0" text="16">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="2230.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" text="17">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text layoutX="2322.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" text="18">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#979ea4" height="41.0" layoutX="2119.0" layoutY="9.0" stroke="#979ea4" strokeType="INSIDE" width="85.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#979ea4" height="41.0" layoutX="739.0" layoutY="9.0" stroke="#979ea4" strokeType="INSIDE" width="40.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="11.0" layoutX="672.0" layoutY="345.0" stroke="TRANSPARENT" strokeType="INSIDE" width="1500.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="191.0" layoutX="2167.0" layoutY="345.0" stroke="TRANSPARENT" strokeType="INSIDE" width="11.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="58.0" layoutX="672.0" layoutY="345.0" stroke="TRANSPARENT" strokeType="INSIDE" width="11.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="11.0" layoutX="672.0" layoutY="398.0" stroke="TRANSPARENT" strokeType="INSIDE" width="777.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="184.0" layoutX="524.0" layoutY="796.0" stroke="BLACK" strokeType="INSIDE" width="1870.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="11.0" layoutX="525.0" layoutY="877.0" stroke="WHITE" strokeType="INSIDE" width="1783.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="954.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="928.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="903.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="856.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="830.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffe100" height="11.0" layoutX="524.0" layoutY="805.0" stroke="BLACK" strokeType="INSIDE" width="123.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="107.0" layoutX="605.0" layoutY="666.0" stroke="BLACK" strokeType="INSIDE" width="24.0" />
+         <Circle fx:id="led1" fill="#ff1f1f" layoutX="617.0" layoutY="685.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+         <Circle fx:id="led2" fill="#fbff1f" layoutX="617.0" layoutY="720.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+         <Circle fx:id="led3" fill="#1fff7e" layoutX="617.0" layoutY="753.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="461.0" layoutX="2216.0" layoutY="344.0" stroke="BLACK" strokeType="INSIDE" width="178.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="215.0" layoutX="525.0" layoutY="324.0" stroke="BLACK" strokeType="INSIDE" width="144.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="136.0" layoutX="526.0" layoutY="410.0" stroke="BLACK" strokeType="INSIDE" width="1623.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" height="381.0" layoutX="2007.0" layoutY="417.0" stroke="BLACK" strokeType="INSIDE" width="144.0" />
+         <Line endX="18.25" endY="1.5" layoutX="1417.0" layoutY="279.0" startX="-93.5" startY="1.5" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="96.0" layoutX="1291.0" layoutY="480.0" startX="-20.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="100.0" endY="-25.0" layoutX="1290.0" layoutY="508.0" startX="77.0" startY="-2.0" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="100.0" endY="-25.0" layoutX="1291.0" layoutY="506.0" startX="78.0" startY="-50.0" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="-8.0" endY="0.75" layoutX="1342.0" layoutY="297.0" startX="-23.0" startY="-15.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="-8.0" endY="-31.0" layoutX="1341.0" layoutY="296.0" startX="-23.0" startY="-15.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="1.5" endY="7.75" layoutX="2078.0" layoutY="702.0" startX="1.5" startY="-53.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="-7.75" endY="-2.0" layoutX="2088.0" layoutY="713.0" startX="4.0" startY="-12.75" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="-10.5" endY="-24.75" layoutX="2076.0" layoutY="724.0" startX="2.25" startY="-13.0" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="1.25" endY="25.25" layoutX="2308.0" layoutY="660.0" startX="-0.25" startY="-51.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="2.5" endY="-46.5" layoutX="2319.0" layoutY="668.0" startX="-10.0" startY="-60.25" stroke="WHITE" strokeWidth="5.0" />
+         <Line endX="-1.0" endY="-57.75" layoutX="2298.0" layoutY="679.0" startX="9.75" startY="-72.5" stroke="WHITE" strokeWidth="5.0" />
+         <Rectangle fx:id="ledAlert" arcHeight="5.0" arcWidth="5.0" fill="#00ff62" height="11.0" layoutX="2215.0" layoutY="345.0" stroke="TRANSPARENT" strokeType="INSIDE" width="178.0" />
+         <Text fx:id="txtPlazas" layoutX="1020.0" layoutY="673.0" strokeType="OUTSIDE" strokeWidth="0.0" text="capacidad: 20 plazas">
+            <font>
+               <Font name="Segoe UI" size="19.0" />
+            </font>
+         </Text>
+         <Text fx:id="txtOcupados" layoutX="1029.0" layoutY="704.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ocupados: 0">
+            <font>
+               <Font name="Segoe UI" size="19.0" />
+            </font>
+         </Text>
+         <Text layoutX="1469.0" layoutY="687.0" strokeType="OUTSIDE" strokeWidth="0.0" text="A E R O P U E R T O">
+            <font>
+               <Font size="52.0" />
+            </font>
+         </Text>
+         <Text fx:id="txtDespegue" layoutX="707.0" layoutY="673.0" strokeType="OUTSIDE" strokeWidth="0.0" text="aviones próximo a despegar: 0">
+            <font>
+               <Font name="Segoe UI" size="19.0" />
+            </font>
+         </Text>
+         <Text fx:id="txtAterrizar" layoutX="707.0" layoutY="703.0" strokeType="OUTSIDE" strokeWidth="0.0" text="aviones próximo a aterrizar: 0">
+            <font>
+               <Font name="Segoe UI" size="19.0" />
+            </font>
+         </Text>
+         <Text fill="WHITE" layoutX="1395.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Z O N A     D E    A B O R D A J E    P  1">
+            <font>
+               <Font size="20.0" />
+            </font>
+         </Text>
+         <Text fill="WHITE" layoutX="2271.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="P  2">
+            <font>
+               <Font size="49.0" />
+            </font>
+         </Text>
+         <Text fill="WHITE" layoutX="589.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="P  3">
+            <font>
+               <Font size="49.0" />
+            </font>
+         </Text>
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffffff00" height="922.0" layoutX="12.0" layoutY="80.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="502.0" />
+         <Text layoutX="76.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="E S P A C I O     A É R E O">
+            <font>
+               <Font size="34.0" />
+            </font>
+         </Text>
+         <Button layoutX="14.0" layoutY="19.0" mnemonicParsing="false" onAction="#starAirport" prefHeight="45.0" prefWidth="171.0" style="-fx-background-color: #000;" text="I N I C I A R" textFill="WHITE" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="523.0" layoutY="75.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="863.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="959.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1151.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1247.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1342.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="1438.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="2202.0" layoutY="73.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff00" height="129.0" layoutX="2299.0" layoutY="73.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="101.0" />
+         <Circle fill="DODGERBLUE" layoutX="456.0" layoutY="158.0" radius="29.0" stroke="BLACK" strokeType="INSIDE" />
+         <Circle fill="DODGERBLUE" layoutX="2064.0" layoutY="773.0" radius="29.0" stroke="BLACK" strokeType="INSIDE" />
+         <Circle fill="DODGERBLUE" layoutX="2369.0" layoutY="273.0" radius="29.0" stroke="BLACK" strokeType="INSIDE" />
+      </AnchorPane>
+   </children>
+</GridPane>
